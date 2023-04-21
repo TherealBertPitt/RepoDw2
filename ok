@@ -1,0 +1,17 @@
+[1mdiff --cc html/index.html[m
+[1mindex db9ca3f,8ac0c02..0000000[m
+[1m--- a/html/index.html[m
+[1m+++ b/html/index.html[m
+[36m@@@ -19,7 -19,7 +19,11 @@@[m
+              <li><a href="#">Contact Us</a></li>[m
+            </ul>[m
+          </nav>[m
+[31m -        <h1>HTML and CSS: The Misssing Manual</h1>[m
+[32m++<<<<<<< HEAD[m
+[32m +        <h1>CSS3: The Missing Manual</h1>[m
+[32m++=======[m
+[32m++        <h1>HTML and CSS: The Missing Manual</h1>[m
+[32m++>>>>>>> 62c25572c15f792f6cb805e2e3c0bb83e3bb6dc7[m
+        </header>[m
+        <div class="contentWrapper">[m
+          <div class="columnWrapper">[m
